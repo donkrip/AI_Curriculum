@@ -4,6 +4,8 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 <!-- toc -->
 
 ## Contents
+- [Deep Learning (with Pytorch)](#deep-learning)
+  - DS-GA 1008: Deep Learning | SPRING 2020
 - [Introduction to Deep Learning](#introduction-to-deep-learning)
   - MIT 6.S191: Introduction to Deep Learning | 2020
 - [CNNs for Visual Recognition](#cnns-for-visual-recognition)
@@ -11,11 +13,23 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 - [NLP with Deep Learning](#nlp-with-deep-learning)
   - CS224n: NLP with Deep Learning, Stanford | Winter 2019
 - [Deep Reinforcement Learning](#deep-reinforcement-learning)
+  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
   - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
 - [Unsupervised Learning](#unsupervised-learning)
   - CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020
 - [Multi-Task and Meta Learning](#multi-task-and-meta-learning)
   - Stanford CS330: Multi-Task and Meta Learning | 2019
+
+# Deep Learning
+
+### DS-GA 1008: Deep Learning | SPRING 2020
+[Lecture Series](https://atcold.github.io/pytorch-Deep-Learning/)
+
+This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. The lectures are taught by Yann LeCun and the entire lecture series is also available as a YouTube Playlist officially provided by them at [https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq).
+
+Source: NYU Center for Data Science
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/deep-learning.png" width="600"></p>](http://introtodeeplearning.com/)
 
 # Introduction to Deep Learning
 
@@ -51,6 +65,9 @@ Source: Stanford
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/nlp_stanford.png" width="600"></p>](http://web.stanford.edu/class/cs224n/index.html#schedule)
 
 # Deep Reinforcement Learning
+
+### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
+[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
 ### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
 [Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
